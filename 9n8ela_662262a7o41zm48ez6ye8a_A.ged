@@ -1,0 +1,548 @@
+﻿0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+1 SOUR MYHERITAGE
+2 NAME MyHeritage Family Tree Builder
+2 VERS 5.5.1
+2 _RTLSAVE RTL
+2 CORP MyHeritage.com
+1 DEST MYHERITAGE
+1 DATE 04 NOV 2026
+1 FILE Exported by MyHeritage.com from Farah Family Tree 1 in Farah Web Site on Wed, 04 Nov 2026
+1 _PROJECT_GUID 6AE99F6C2ABBE2C2602FFE4D84C71A5C
+1 _EXPORTED_FROM_SITE_ID 1762186692
+0 @I1@ INDI
+1 NAME Siena /Farah/
+2 GIVN Siena
+2 SURN Farah
+1 SEX F
+1 BIRT
+2 DATE 2006
+1 FAMC @F8@
+1 RIN MH:I1
+1 _UID 6AE99F6ACAC3D2BFE02FFE4D84C71A5C
+0 @I2@ INDI
+1 NAME Joanne /Kelly/
+2 GIVN Joanne
+2 SURN Kelly
+1 SEX F
+1 BIRT
+2 DATE 1969
+2 PLAC Sydney, New South Wales, Australia
+1 BIRT
+2 DATE 1970
+2 PLAC Sydney, New South Wales, Australia
+1 RESI
+2 ADDR
+3 ADR1 Sydney, New South Wales, Australia
+1 FAMS @F8@
+1 FAMC @F1@
+1 RIN MH:I2
+1 _UID 6AE99F6ACACBC2BFF02FFE4D84C71A5C
+0 @I3@ INDI
+1 NAME Michael Eblen /Farah/
+2 GIVN Michael Eblen
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 DATE 1973
+2 PLAC Johannesburg, Gauteng, South Africa
+1 IMMI
+2 DATE 2016
+2 PLAC Sydney, New South Wales, Australia
+2 AGE 42-43
+1 RESI
+2 ADDR
+3 ADR1 Sydney, New South Wales, Australia
+1 DEAT Y
+2 DATE 4 JUN 2019
+2 PLAC Sydney, New South Wales, Australia
+2 AGE 45-46
+1 FAMS @F7@
+1 FAMS @F8@
+1 FAMC @F5@
+1 RIN MH:I3
+1 _UID 6AE99F6ACAD962C0002FFE4D84C71A5C
+0 @I4@ INDI
+1 NAME Pamela Rita /Robinson/
+2 GIVN Pamela Rita
+2 SURN Robinson
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1945
+2 PLAC Sydney, New South Wales, Australia
+2 SOUR @S1@
+3 PAGE Ancestry Family Tree
+3 QUAY 0
+1 BIRT
+2 PLAC Sydney, New South Wales, Australia
+1 RESI
+2 ADDR
+3 ADR1 Sydney, New South Wales, Australia
+1 DEAT Y
+2 DATE 26 JUN 2007
+2 PLAC San souciSydney, New South Wales, Australia
+2 SOUR @S1@
+3 PAGE Ancestry Family Tree
+3 QUAY 0
+2 AGE 62
+1 DEAT Y
+2 PLAC Sydney, New South Wales, Australia
+1 FAMS @F1@
+1 FAMC @F2@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I4
+1 _UID 6AE99F6ACAE262C0102FFE4D84C71A5C
+0 @I5@ INDI
+1 NAME Dennis Michael P /Kelly/
+2 GIVN Dennis Michael P
+2 SURN Kelly
+1 SEX M
+1 BIRT
+2 PLAC Queensland, Australia
+1 RESI
+2 ADDR
+3 ADR1 Queensland, Australia
+1 DEAT Y
+2 PLAC Queensland, Australia
+1 DEAT Y
+2 PLAC Queensland, Australia
+1 FAMS @F1@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I5
+1 _UID 6AE99F6ACAE6A2C0202FFE4D84C71A5C
+0 @I6@ INDI
+1 NAME Elizabeth Helena /Janse van Rensberg/
+2 GIVN Elizabeth Helena
+2 SURN Janse van Rensberg
+1 SEX F
+1 BIRT
+2 DATE 2 OCT 1934
+2 PLAC Johannesburg, Gauteng, South Africa
+1 RESI
+2 ADDR
+3 ADR1 Johannesburg, Gauteng, South Africa
+1 DEAT Y
+2 DATE 27 APR 2007
+2 PLAC Johannesburg, Gauteng, South Africa
+2 AGE 72-73
+1 FAMS @F5@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 SOUR @S500001@
+2 PAGE https://www.myheritage.com/research/record-40001-2669463429/elizabeth-helena-farah-born-janse-van-rensburg-in-familysearch-family-tree
+2 QUAY 4
+2 DATA
+3 DATE 3 NOV 2026
+3 TEXT Elizabeth Helena Farah (born Janse van Rensburg)
+4 CONC Gender: Female
+4 CONC Birth: Oct 2 1934
+4 CONC Marriage: Feb 8 1964
+4 CONC Death: Apr 27 2007 - Johannesburg, Gauteng, South Africa
+4 CONC Husband: &lt;a&gt;Solomon Farah&lt;/a&gt;
+2 EVEN Record
+3 ROLE 40001:2669463429:
+1 RIN MH:I6
+1 _UID 6AE99F6ACAEC12C0302FFE4D84C71A5C
+0 @I7@ INDI
+1 _UPD 3 NOV 2026 02:49:09 GMT -0600 
+1 NAME Solomon /Farah/
+2 GIVN Solomon
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 DATE 19 FEB 1931
+2 PLAC Lebanon
+1 RESI
+2 ADDR
+3 ADR1 Johannesburg, Gauteng, South Africa
+1 DEAT Y
+2 DATE 25 SEP 2002
+2 PLAC Johannesburg, Gauteng, South Africa
+2 AGE 71
+1 FAMS @F5@
+1 FAMC @F6@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 SOUR @S500001@
+2 PAGE https://www.myheritage.com/research/record-40001-2669447916/solomon-farah-in-familysearch-family-tree
+2 QUAY 4
+2 DATA
+3 DATE 3 NOV 2026
+3 TEXT Solomon Farah
+4 CONC Gender: Male
+4 CONC Birth: Feb 19 1931 - Lebanon
+4 CONC Marriage: Spouse: Yvonne Nigrini - Nov 26 1960 - Johannesburg, Transvaal, South Africa
+4 CONC Marriage: Spouse: Elizabeth Helena Janse van Rensburg - Feb 8 1964
+4 CONC Divorce: Spouse: Yvonne Nigrini - 1962
+4 CONC Death: Sep 25 2002 - Johannesburg, Gauteng, South Africa
+4 CONC Spouses: &lt;a&gt;Yvonne Nigrini&lt;/a&gt;, &lt;a&gt;Elizabeth Helena Farah (born Janse van Rensburg)&lt;/a&gt;
+2 EVEN Record
+3 ROLE 40001:2669447916:
+1 RIN MH:I7
+1 _UID 6AE99F6ACAF332C0402FFE4D84C71A5C
+0 @I8@ INDI
+1 NAME John Silas /Robinson/
+2 GIVN John Silas
+2 SURN Robinson
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1900
+2 PLAC Birkenhead, Cheshire, England
+2 SOUR @S1@
+3 PAGE Ancestry Family Tree
+3 QUAY 0
+1 FAMS @F2@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I8
+1 _UID 6AE99F6ACAF742C0502FFE4D84C71A5C
+0 @I9@ INDI
+1 NAME Rita Elsie /Robinson/
+2 GIVN Rita Elsie
+2 SURN Robinson
+1 SEX F
+1 BIRT
+2 DATE 17 MAR 1914
+2 PLAC Erskineville, NSW, Australia
+1 DEAT Y
+2 DATE 1 JUL 1975
+2 PLAC Kogarah, New South Wales, Australia
+2 SOUR @S2@
+3 QUAY 0
+2 AGE 61
+1 BURI
+2 PLAC Rookwood, Cumberland City Council, New South Wales, Australia
+2 SOUR @S2@
+3 QUAY 0
+1 FAMS @F2@
+1 FAMC @F3@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 SOUR @S2@
+2 QUAY 0
+1 SOUR @S500002@
+2 QUAY 4
+2 DATA
+3 TEXT John Robinson & Reta Elsie Byrnes&amp;lt;br&amp;gt;Groom: John Robinson&amp;lt;br&amp;gt;Bride: Reta Elsie Byrnes&amp;lt;br&amp;gt;Marriage: &amp;lt;br&amp;gt;Year: 1940&amp;lt;br&amp;gt;District: Syd
+4 CONC ney, New South Wales, Australia&amp;lt;br&amp;gt;Registration: New South Wales, Australia
+2 EVEN Record
+3 ROLE 10915:1026549-S:
+1 RIN MH:I9
+1 _UID 6AE99F6ACB0002C0602FFE4D84C71A5C
+0 @I10@ INDI
+1 NAME Nora /Farah/
+2 GIVN Nora
+2 SURN Farah
+1 SEX F
+1 FAMS @F6@
+1 RIN MH:I10
+1 _UID 6AE99F6ACB0102C0702FFE4D84C71A5C
+0 @I11@ INDI
+1 NAME Joseph Anthony /Farah/
+2 GIVN Joseph Anthony
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 DATE 1905
+1 FAMS @F6@
+1 RIN MH:I11
+1 _UID 6AE99F6ACB0372C0802FFE4D84C71A5C
+0 @I12@ INDI
+1 NAME Joseph Farah /Farah/
+2 GIVN Joseph Farah
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 DATE 1935
+1 DEAT Y
+2 DATE 1945
+2 AGE 9-10
+1 FAMC @F6@
+1 RIN MH:I12
+1 _UID 6AE99F6ACB0732C0902FFE4D84C71A5C
+0 @I13@ INDI
+1 NAME Francis /Farah/
+2 GIVN Francis
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 PLAC Johannesburg, Gauteng, South Africa
+1 DEAT Y
+2 PLAC Johannesburg, Gauteng, South Africa
+1 FAMS @F500001@
+1 FAMC @F6@
+1 RIN MH:I13
+1 _UID 6AE99F6ACB0982C0A02FFE4D84C71A5C
+0 @I14@ INDI
+1 NAME Jasper /Farah/
+2 GIVN Jasper
+2 SURN Farah
+1 SEX F
+1 BIRT
+2 DATE 25 JAN 2009
+2 PLAC Johannesburg, Gauteng, South Africa
+1 FAMC @F8@
+1 RIN MH:I14
+1 _UID 6AE99F6ACB0C72C0B02FFE4D84C71A5C
+0 @I15@ INDI
+1 NAME Lulu /Farah/
+2 GIVN Lulu
+2 SURN Farah
+1 SEX F
+1 BIRT
+2 DATE 27 AUG 2012
+2 PLAC Johannesburg, Gauteng, South Africa
+1 FAMC @F8@
+1 RIN MH:I15
+1 _UID 6AE99F6ACB0F62C0C02FFE4D84C71A5C
+0 @I16@ INDI
+1 NAME Caleb Eblen /Farah/
+2 GIVN Caleb Eblen
+2 SURN Farah
+1 SEX M
+1 BIRT
+2 DATE 1996
+2 PLAC Johannesburg, Gauteng, South Africa
+1 FAMC @F7@
+1 RIN MH:I16
+1 _UID 6AE99F6ACB11F2C0D02FFE4D84C71A5C
+0 @I17@ INDI
+1 NAME Celé /Duffey/
+2 GIVN Celé
+2 SURN Duffey
+1 SEX F
+1 FAMS @F7@
+1 RIN MH:I17
+1 _UID 6AE99F6ACB12E2C0E02FFE4D84C71A5C
+0 @I18@ INDI
+1 NAME Richard /Byrnes/
+2 GIVN Richard
+2 SURN Byrnes
+1 SEX M
+1 BIRT
+2 DATE 1890
+2 PLAC Cargo, NSW, Australia
+1 DEAT Y
+2 DATE 15 JUN 1963
+2 PLAC Redfern, NSW, Australia
+2 AGE 72-73
+1 FAMS @F3@
+1 FAMC @F4@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I18
+1 _UID 6AE99F6ACB1822C0F02FFE4D84C71A5C
+0 @I19@ INDI
+1 NAME Florence /Beverstock/
+2 GIVN Florence
+2 SURN Beverstock
+1 SEX F
+1 BIRT
+2 DATE 1888
+1 DEAT Y
+2 DATE 4 MAY 1965
+2 PLAC NSW, Australia
+2 AGE 76-77
+1 FAMS @F3@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I19
+1 _UID 6AE99F6ACB1CF2C1002FFE4D84C71A5C
+0 @I20@ INDI
+1 NAME John /Byrnes/
+2 GIVN John
+2 SURN Byrnes
+2 NSFX �
+1 SEX M
+1 BIRT
+2 DATE 6 AUG 1848
+2 PLAC Summerhill, New South Wales, Australia
+1 DEAT Y
+2 DATE 4 JUN 1916
+2 PLAC Orange Hospital, Orange, New South Wales, Australia
+2 AGE 67
+1 FAMS @F4@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I20
+1 _UID 6AE99F6ACB2322C1102FFE4D84C71A5C
+0 @I21@ INDI
+1 NAME Catherine /Foley/
+2 GIVN Catherine
+2 SURN Foley
+1 SEX F
+1 DEAT Y
+2 DATE 8 DEC 1913
+2 PLAC Orange, New South Wales
+1 FAMS @F4@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I21
+1 _UID 6AE99F6ACB2692C1202FFE4D84C71A5C
+0 @I22@ INDI
+1 NAME Patricia Florence /Robinson/
+2 GIVN Patricia Florence
+2 SURN Robinson
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1945
+2 PLAC Sydney, New South Wales, Australia
+2 SOUR @S1@
+3 PAGE Ancestry Family Tree
+3 QUAY 0
+1 DEAT Y
+2 DATE 15 JUL 2019
+2 PLAC Kogarah, New South Wales, Australia
+2 SOUR @S1@
+3 PAGE Ancestry Family Tree
+3 QUAY 0
+2 AGE 74
+1 FAMC @F2@
+1 SOUR @S1@
+2 PAGE Ancestry Family Tree
+2 QUAY 0
+1 RIN MH:I22
+1 _UID 6AE99F6ACB2CD2C1302FFE4D84C71A5C
+0 @I500001@ INDI
+1 _UPD 4 NOV 2026 01:36:54 GMT -0600 
+1 NAME George /Farah/
+2 GIVN George
+2 SURN Farah
+1 SEX M
+1 DEAT Y
+1 FAMC @F6@
+1 RIN MH:I500001
+1 _UID 6AEAE08E25528A4442A9C3B34BC6A1F6
+0 @I500002@ INDI
+1 _UPD 4 NOV 2026 01:37:06 GMT -0600 
+1 NAME Tony /Farah/
+2 GIVN Tony
+2 SURN Farah
+1 SEX M
+1 FAMC @F500001@
+1 RIN MH:I500002
+1 _UID 6AEAE0A1C2E81E807430A166A5AFED05
+0 @I500003@ INDI
+1 _UPD 4 NOV 2026 01:37:05 GMT -0600 
+1 NAME  //
+1 SEX F
+1 FAMS @F500001@
+1 RIN MH:I500003
+1 _UID 6AEAE0A1CED29E817430A166A5AFED05
+0 @F1@ FAM
+1 HUSB @I5@
+1 WIFE @I4@
+1 CHIL @I2@
+1 RIN MH:F1
+1 _UID 6AE99F6ACB2EF2C1402FFE4D84C71A5C
+0 @F2@ FAM
+1 HUSB @I8@
+1 WIFE @I9@
+1 CHIL @I4@
+1 CHIL @I22@
+1 RIN MH:F2
+1 _UID 6AE99F6ACB3442C1502FFE4D84C71A5C
+1 MARR
+2 DATE 7 APR 1940
+2 PLAC Sydney
+1 MARR
+2 DATE 4 JUL 1940
+2 PLAC Sydney, New South Wales, Australia
+0 @F3@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I9@
+1 RIN MH:F3
+1 _UID 6AE99F6ACB3672C1602FFE4D84C71A5C
+1 MARR
+2 DATE 1912
+2 PLAC Newcastle, New South Wales, Australia
+0 @F4@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I18@
+1 RIN MH:F4
+1 _UID 6AE99F6ACB3882C1702FFE4D84C71A5C
+1 MARR
+2 DATE 1874
+2 PLAC Orange, New South Wales
+0 @F5@ FAM
+1 HUSB @I7@
+1 WIFE @I6@
+1 CHIL @I3@
+1 RIN MH:F5
+1 _UID 6AE99F6ACB3AF2C1802FFE4D84C71A5C
+1 MARR
+2 DATE 8 FEB 1964
+2 PLAC Johannesburg, South Africa
+0 @F6@ FAM
+1 HUSB @I11@
+1 WIFE @I10@
+1 CHIL @I7@
+1 CHIL @I12@
+1 CHIL @I500001@
+1 CHIL @I13@
+1 RIN MH:F6
+1 _UID 6AE99F6ACB3B82C1902FFE4D84C71A5C
+0 @F7@ FAM
+1 HUSB @I3@
+1 WIFE @I17@
+1 CHIL @I16@
+1 RIN MH:F7
+1 _UID 6AE99F6ACB3C02C1A02FFE4D84C71A5C
+0 @F8@ FAM
+1 HUSB @I3@
+1 WIFE @I2@
+1 CHIL @I1@
+1 CHIL @I14@
+1 CHIL @I15@
+1 RIN MH:F8
+1 _UID 6AE99F6ACB3CA2C1B02FFE4D84C71A5C
+0 @F500001@ FAM
+1 _UPD 4 NOV 2026 01:37:05 GMT -0600
+1 HUSB @I13@
+1 WIFE @I500003@
+1 CHIL @I500002@
+1 RIN MH:F500001
+1 _UID 6AEAE0A1D52DCE827430A166A5AFED05
+0 @S1@ SOUR
+1 TITL Ancestry Family Tree
+1 RIN MH:S1
+0 @S2@ SOUR
+1 AUTH Ancestry.com
+1 TITL Australia and New Zealand, Find a Grave® Index, 1800s-Current
+1 PUBL Ancestry.com Operations, Inc.
+1 RIN MH:S2
+0 @S500001@ SOUR
+1 _UPD 3 NOV 2026 02:49:09 GMT -0600 
+1 TITL FamilySearch Family Tree
+1 PUBL MyHeritage
+1 TEXT The FamilySearch Family Tree is published by MyHeritage under license from FamilySearch International, the largest genealogy organization in the world. FamilySearch is a nonprofit organization sponsor
+2 CONC ed by The Church of Jesus Christ of Latter-day Saints (Mormon Church).
+1 _TYPE Collection
+1 _MEDI 40001
+0 @S500002@ SOUR
+1 _UPD 3 NOV 2026 02:52:15 GMT -0600 
+1 TITL Australia, New South Wales Marriage Index, 1788-1966
+1 PUBL MyHeritage
+1 TEXT The district given in a record refers primarily to an electoral district, city, or township within New South Wales; however, the point of reference may also be a street or intersection. The vast major
+2 CONC ity of the marriages took place in New South Wales, with a small minority that took place in Queensland, Tasmania, or elsewhere.
+1 _TYPE Collection
+1 _MEDI 10915
+0 TRLR
